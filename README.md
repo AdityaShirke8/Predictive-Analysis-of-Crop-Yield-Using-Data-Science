@@ -81,7 +81,7 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn
 
 ### 🙌 Acknowledgments
 
-- Dataset sourced from [FAOSTAT](http://www.fao.org/faostat/)
+- Dataset sourced from Kaggle 
 - Color styling inspired by custom notebook themes.
 
 ---
